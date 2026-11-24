@@ -1,3 +1,7 @@
 abcd
 
+<<<<<<< HEAD
 hi
+=======
+see ya
+>>>>>>> dev1
